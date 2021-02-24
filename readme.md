@@ -3,6 +3,7 @@
 ## GitHub Actions
 
 * **[Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions)** - Detailed breakdown of the YAML syntax used to configure workflows.
+* **[Storing workflow data as artifacts](https://docs.github.com/en/actions/guides/storing-workflow-data-as-artifacts)
 
 ## Serverless
 
