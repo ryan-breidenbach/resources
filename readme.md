@@ -1,5 +1,7 @@
 # Resources
 
+A colleciton of documentation, articale, blog posts, and other third-party resources.
+
 ## GitHub Actions
 
 * [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) - Detailed breakdown of the YAML syntax used to configure workflows.
