@@ -10,6 +10,7 @@ A colleciton of documentation, articale, blog posts, and other third-party resou
   * [Upload-Artifact v2](https://github.com/actions/upload-artifact)- Documentation for the Upload Artifact action
 * [Virtual Environments](https://github.com/actions/virtual-environments) - Repository for the virtual environments available to GitHub actions
   * [Ubuntu 18.04.5 LTS (Latest)](https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu1804-README.md)
+* [Creating a composite run steps action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action) - Steps to create a composite tun steps action. This is an action that is composed of multiple related actions, allowing common workflows to be shared.
 
 ## Serverless
 
