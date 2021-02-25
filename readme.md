@@ -12,6 +12,7 @@ A colleciton of documentation, articale, blog posts, and other third-party resou
   * [Ubuntu 18.04.5 LTS (Latest)](https://github.com/actions/virtual-environments/blob/main/images/linux/Ubuntu1804-README.md)
 * [Creating a composite run steps action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action) - Steps to create a composite tun steps action. This is an action that is composed of multiple related actions, allowing common workflows to be shared.
 * [Environments](https://docs.github.com/en/actions/reference/environments) - Documentation for GitHub Environments which can be used to manage protection rules and secrets for different deployment environments.
+  * [Reviewing deployments](https://docs.github.com/en/actions/managing-workflow-runs/reviewing-deployments) - How to view, approave, and reject jobs waiting for approval.
 
 ## Serverless
 
