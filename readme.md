@@ -2,6 +2,10 @@
 
 A colleciton of documentation, articale, blog posts, and other third-party resources.
 
+## AWS
+
+* [Configuring the AWS CLI to use AWS Single Sign-On](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html)
+
 ## GitHub Actions
 
 * [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions) - Detailed breakdown of the YAML syntax used to configure workflows.
