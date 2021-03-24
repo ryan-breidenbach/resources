@@ -1,6 +1,6 @@
 # Resources
 
-A colleciton of documentation, articale, blog posts, and other third-party resources.
+A collection of documentation, articles, blog posts, and other third-party resources.
 
 ## AWS
 
